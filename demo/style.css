@@ -1,0 +1,27 @@
+.nav-header{
+    background-color: #131313;
+}
+.main-nav{
+    background-color: rgba(0,0,0,0.8) !important;
+}
+.custom-img{
+    height: 500px;
+}
+.custom-card:hover img{
+    transform: scale(1.5);
+}
+.custom-card{
+    overflow: hidden;
+}
+.custom-card img{
+    transition: all 3s;
+    height: 200px;
+    
+}
+footer{
+    background-color: #131313;
+
+}
+footer h5,p, footer .nav-link{
+    color: #ffff !important;
+}
